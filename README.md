@@ -1,1 +1,9 @@
 # avalia-o-06-09-22
+
+<h1>Poluição no Brasil</h1>
+
+<p>No Brasil, são quase <strong>100 milhões</strong> de pessoas sem coleta e tratamento de esgoto, que compromete saúde da </p><p>população e, no caso de Alagoas, é ameaça também ao turismo, segunda atividade econômica mais importante do estado.</p> <p>Companhia de saneamento diz que vai dobrar cobertura em dois anos.
+O Brasil lançou diariamente no solo, córregos, rios</p> <p>e mar <strong>5.622 piscinas olímpicas</strong> de esgoto não tratado, segundo dados referentes a 2017 e divulgados nesta terça-feira (23) pelo <em>Instituto Trata Brasil</em>.</p> <p>O lançamento de esgoto sem tratamento é apontado pela <em>Agência Nacional de Águas</em> (ANA) como a principal forma de poluição de água no país.</p>
+<p>É por isso que a situação em Alagoas é tão grave: 83,1% da população do estado não tem coleta de esgoto e só 20% do que é coletado </p><p>é tratado, de acordo com o relatório de 2019 do <em>Sistema Nacional de Informação Sanitária</em> (SNIS).</p>
+<p>Na capital Maceió, a poluição é um problema antigo do Riacho Salgadinho. </p><p>O rio percorre a cidade de norte a sul recebendo esgoto e lixo das populações ribeirinhas e, quando chega à Praia</p><p> da Avenida, na região Centro-Sul, seu nível de coliformes fecais está <strong>milhões</strong> de vezes acima do adequado.</p>
+<p>Isso acontece com outros rios na cidade, como o Riacho Doce, na Zona Norte. Ele percorre o bairro recebendo esgoto e deságua no mar, na praia de Riacho Doce.</p><p> Somada ao plástico e à sujeira deixados pelos banhistas nas praias, essa contaminação compromete também a biodiversidade marinha.</p>
